@@ -55,13 +55,13 @@ IoT Hacking Writeup on a cheap home security camera. I'll walk you through recon
 
 ## Dumping SPI NOR Flash Memory  
 
-![EEPROM](IMG_1665.jpeg)
+![EEPROM](Writeups/GabbaGoodsSecCam/pics/IMG_1665.jpeg)
 
-![flashrom](SPIFLASH.png)
+![flashrom](Writeups/GabbaGoodsSecCam/pics/SPIFLASH.png)
 
-![stringscmd](stringsPoC.png)
+![stringscmd](Writeups/GabbaGoodsSecCam/pics/stringsPoC.png)
 
-![rooting](greproot.png)
+![rooting](Writeups/GabbGoodsSecCam/pics/greproot.png)
 
 
 
